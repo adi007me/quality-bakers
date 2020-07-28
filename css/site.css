@@ -1,0 +1,69 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/templates/heroic-features)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+header p {
+  text-align: justify;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.display-3 {
+  color: #70a03a
+}
+
+.bg-dark {
+  background-color: #0398ae !important;
+}
+
+.btn-lg {
+  margin: 0 5px;
+}
+
+.btn-primary {
+  background-color: #0398ae;
+  border-color: #0398ae;
+}
+
+.address {
+  max-width: 100%;
+  padding: 0;
+}
+
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
+
+.whatsapp-icon {
+  width: 40px;
+}
+
+.align-justified {
+  text-align: justify;
+}
+
+.about-card {
+  margin: 10px 0;
+}
+
+.cap {
+  width: 40px;
+}
+
+.card-title-cap {
+  color: #0398ae;
+}
+
+.recipes {
+  margin: 20px 0;
+}
