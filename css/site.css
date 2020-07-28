@@ -34,7 +34,8 @@ header p {
 }
 
 .address {
-  max-width: 100%;
+  /* max-width: 100%; */
+  display: inline-block;
   padding: 0;
 }
 
@@ -66,4 +67,8 @@ header p {
 
 .recipes {
   margin: 20px 0;
+}
+
+.marker {
+  width: 30px
 }
